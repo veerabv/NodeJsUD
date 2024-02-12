@@ -2,4 +2,4 @@
 
 const fs = require("fs");
 console.log(fs);
-fs.writeFileSync("hello.txt", "hello from Node.js");
+fs.writeFileSync("hello.txt", "hello");
